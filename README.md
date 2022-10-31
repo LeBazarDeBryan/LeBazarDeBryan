@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Salut 👋, Je suis Bryan</h1>
+<h3 align="center">Quelqu'un qui adore l'Informatique qui est en France</h3>
 
-<!--
-**N0ub4x/N0ub4x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=n0ub4x&style=flat&label=Vue+du+Profil" alt="Vue du Profil de Bryan" /> </p>
 
-Here are some ideas to get you started:
+🔭 Je travaille sur mon Projet [M0l0t0v.tv](https://github.com/N0ub4x/M0l0t0v.tv)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 Tous mes Projets sont disponible [ici](https://github.com/N0ub4x?tab=repositories)
+
+<br></br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=n0ub4x&show_icons=true&locale=fr" alt="Stats GitHub de Bryan" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=n0ub4x&show_icons=true&locale=fr&layout=compact" alt="Language les plus utilisé de Bryan" /></p>
