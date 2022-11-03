@@ -8,6 +8,6 @@
 👨‍💻 Tous mes Projets sont disponible [ici](https://github.com/N0ub4x?tab=repositories)
 
 <br></br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=n0ub4x&show_icons=true&locale=fr" alt="Stats GitHub de Bryan" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=n0ub4x&show_icons=true&theme=transparent&locale=fr" alt="Stats GitHub de Bryan" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=n0ub4x&show_icons=true&locale=fr&layout=compact" alt="Language les plus utilisé de Bryan" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=n0ub4x&show_icons=true&locale=fr&layout=compact&theme=transparent" alt="Language les plus utilisé de Bryan" /></p>
