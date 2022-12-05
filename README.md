@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=LeBazarDeBryan&style=flat&label=Vue+du+Profil" alt="Vue du Profil de Bryan" /> </p>
 
-🔭 Je travaille sur mon Projet [Vanced Reborn](https://github.com/Bryan/VancedReborn)
+🔭 Je travaille sur mon Projet [Vanced Reborn](https://github.com/LeBazarDeBryan/VancedReborn)
 
 👨‍💻 Tous mes Projets sont disponible [ici](https://github.com/LeBazarDeBryan?tab=repositories)
 
