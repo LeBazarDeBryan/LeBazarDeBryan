@@ -11,5 +11,5 @@
 <br></br>
 <br></br>
 
-<p><a href="https://www.youtube.com/channel/UCRtAi_cDRcaJ1mgpqckNCbw"><img src="images/youtube.png" height="100" width="100" /></a></p>
-<p><a href="https://twitter.com/N0ub4xOfficiel"><img src="images/twitter.png" height="100" width="100" /></a></p>
+<a href="https://www.youtube.com/channel/UCRtAi_cDRcaJ1mgpqckNCbw"><img src="images/youtube.png" height="100" width="100" /></a>
+<a href="https://twitter.com/N0ub4xOfficiel"><img src="images/twitter.png" height="100" width="100" /></a>
