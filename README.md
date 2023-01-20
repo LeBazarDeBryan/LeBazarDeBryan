@@ -6,3 +6,9 @@
 🔭 Je travaille sur mon Projet [M0l0t0v.tv](https://github.com/LeBazarDeBryan/M0l0t0v.tv)
 
 👨‍💻 Tous mes Projets sont disponible [ici](https://github.com/LeBazarDeBryan?tab=repositories)
+
+<br></br>
+<br></br>
+<br></br>
+
+<p><a href="https://www.youtube.com/channel/UCRtAi_cDRcaJ1mgpqckNCbw"><img src="images/youtube.png" height="100" width="100" /></a></p>
