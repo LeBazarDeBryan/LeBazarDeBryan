@@ -11,5 +11,8 @@
 <br></br>
 <br></br>
 
-<a href="https://www.youtube.com/channel/UCRtAi_cDRcaJ1mgpqckNCbw"><img src="images/youtube.png" height="100" width="100" /></a>
+<p align="center">
+<a href="https://www.youtube.com/channel/UCRtAi_cDRcaJ1mgpqckNCbw"><img src="images/youtube.png" height="85" width="85" /></a>
 <a href="https://twitter.com/N0ub4xOfficiel"><img src="images/twitter.png" height="100" width="100" /></a>
+<a href="https://www.instagram.com/le_bazar_de_bryan"><img src="images/instagram.png" height="80" width="80" /></a>
+</p>
