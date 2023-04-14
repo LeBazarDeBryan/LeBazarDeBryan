@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://profile-counter.glitch.me/LeBazarDeBryan/count.svg" alt="Vue du Profil de Bryan" /> </p>
 
-🔭 Je travaille sur mon Projet [XTVZ_](https://github.com/LeBazarDeBryan/XTVZ_)
+🔭 Je travaille sur mon Projet [DIY_Lovebox](https://github.com/LeBazarDeBryan/DIY_Lovebox#readme)
 
 👨‍💻 Tous mes Projets sont disponible [ici](https://github.com/LeBazarDeBryan?tab=repositories)
 
