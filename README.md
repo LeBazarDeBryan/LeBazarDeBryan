@@ -1,7 +1,7 @@
-<h1 align="center">Salut 👋, Je suis Bryan</h1>
-<h3 align="center">Quelqu'un qui adore l'Informatique qui est en France</h3>
+<h1 align="center"> Salut 👋, Je suis Bryan </h1>
+<h3 align="center"> Quelqu'un qui adore l'Informatique </h3>
 
-<p align="center"> <img src="https://profile-counter.glitch.me/LeBazarDeBryan/count.svg" alt="Vue du Profil de Bryan" /> </p>
+<p align="center"> <img src="https://profile-counter.glitch.me/LeBazarDeBryan/count.svg" alt="" /> </p>
 
 🔭 Je travaille sur mon Projet [DIY_Lovebox](https://github.com/LeBazarDeBryan/DIY_Lovebox#readme)
 
