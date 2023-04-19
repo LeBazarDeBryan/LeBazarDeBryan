@@ -6,7 +6,7 @@
 |     | Compteur de vue |     |
 |-----|-----------------|-----|
 |     |<img src="https://profile-counter.glitch.me/LeBazarDeBryan/count.svg" alt="" />|
-|     |<p align="center">LeBazarDeBryan</p>|     |
+|     |<p align="center">Le Bazar de Bryan</p>|     |
 
 </div>
 
