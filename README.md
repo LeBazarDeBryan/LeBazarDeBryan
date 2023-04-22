@@ -8,6 +8,8 @@
 |     |<img src="https://profile-counter.glitch.me/LeBazarDeBryan/count.svg" alt="" />|
 |     |<p align="center">Le Bazar de Bryan</p>|     |
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeBazarDeBryan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="" /><br />
+
 </div>
 
 🔭 Je travaille sur mon Projet [DIY_Lovebox](https://github.com/LeBazarDeBryan/DIY_Lovebox#readme)
@@ -15,6 +17,12 @@
 👨‍💻 Tous mes Projets sont disponible [ici](https://github.com/LeBazarDeBryan?tab=repositories)
 
 <br></br>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=LeBazarDeBryan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeBazarDeBryan&theme=tokyonight&hide_border=false" alt="" />
+</div>
+
 <br></br>
 <br></br>
 
