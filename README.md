@@ -20,7 +20,7 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LeBazarDeBryan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeBazarDeBryan&theme=tokyonight&hide_border=false" alt="" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=LeBazarDeBryan&theme=tokyonight-duo&hide_border=true&border_radius=50&locale=fr&date_format=j%2Fn%5B%2FY%5D" alt="" />
 </div>
 
 <br></br>
