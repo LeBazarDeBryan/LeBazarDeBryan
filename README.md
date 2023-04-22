@@ -8,7 +8,7 @@
 |     |<img src="https://profile-counter.glitch.me/LeBazarDeBryan/count.svg" alt="" />|
 |     |<p align="center">Le Bazar de Bryan</p>|     |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeBazarDeBryan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="" /><br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeBazarDeBryan&locale=fr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="" /><br />
 
 </div>
 
@@ -19,7 +19,7 @@
 <br></br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LeBazarDeBryan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="" />
+<img src="https://github-readme-stats.vercel.app/api?username=LeBazarDeBryan&locale=fr&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=LeBazarDeBryan&theme=tokyonight-duo&hide_border=true&border_radius=50&locale=fr&date_format=j%2Fn%5B%2FY%5D" alt="" />
 </div>
 
