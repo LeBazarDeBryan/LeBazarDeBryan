@@ -6,15 +6,15 @@
 |     | Compteur de vue |     |
 |-----|-----------------|-----|
 |     |<img src="https://profile-counter.glitch.me/LeBazarDeBryan/count.svg" alt="" />|
-|     |<p align="center">Le Bazar de Bryan</p>|     |
+|     |<p align="center">**Le Bazar de Bryan**</p>|     |
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeBazarDeBryan&locale=fr&theme=tokyonight&hide_border=true&border_radius=50&include_all_commits=false&count_private=false" alt="" /><br />
 
 </div>
 
-🔭 Je travaille sur mon Projet [DIY_Lovebox](https://github.com/LeBazarDeBryan/DIY_Lovebox#readme)
+🔭 Je travaille sur mon Projet [**XTVZ_**](https://github.com/LeBazarDeBryan/XTVZ_#readme)
 
-👨‍💻 Tous mes Projets sont disponible [ici](https://github.com/LeBazarDeBryan?tab=repositories)
+👨‍💻 Tous mes Projets sont disponible [**ici**](https://github.com/LeBazarDeBryan?tab=repositories)
 
 <br></br>
 
