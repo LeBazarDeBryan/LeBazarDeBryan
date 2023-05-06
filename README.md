@@ -14,7 +14,7 @@
 
 👨‍💻 Tous mes Projets sont disponible [**ici**](https://github.com/LeBazarDeBryan?tab=repositories)
 
-<br></br>
+<br>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LeBazarDeBryan&locale=fr&theme=tokyonight&hide_border=true&border_radius=50&include_all_commits=false&count_private=false" alt="" />
