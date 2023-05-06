@@ -1,5 +1,6 @@
-<h1 align="center"> Salut 👋, Je suis Bryan </h1>
-<h3 align="center"> Quelqu'un qui adore l'Informatique </h3>
+<h1 align="center">Salut 👋, Je suis Bryan</h1>
+<h3 align="center">Quelqu'un qui adore l'Informatique</h3>
+<p align="center">👨‍💻 Tous mes Projets sont disponible <a href="https://github.com/LeBazarDeBryan?tab=repositories">ici</a></p>
 
 <div align="center">
   
@@ -11,8 +12,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeBazarDeBryan&locale=fr&theme=tokyonight&hide_border=true&border_radius=50&include_all_commits=false&count_private=false" alt="" /><br />
 
 </div>
-
-👨‍💻 Tous mes Projets sont disponible [**ici**](https://github.com/LeBazarDeBryan?tab=repositories)
 
 <br>
 
