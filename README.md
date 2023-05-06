@@ -12,8 +12,6 @@
 
 </div>
 
-🔭 Je travaille sur mon Projet [**Nostalgiapk**](https://github.com/LeBazarDeBryan/Nostalgiapk#readme)
-
 👨‍💻 Tous mes Projets sont disponible [**ici**](https://github.com/LeBazarDeBryan?tab=repositories)
 
 <br></br>
