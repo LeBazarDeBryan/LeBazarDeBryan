@@ -1,6 +1,6 @@
 <h1 align="center">Salut 👋, Je suis Bryan</h1>
 <h3 align="center">Quelqu'un qui adore l'Informatique</h3>
-<p align="center">👨‍💻 Tous mes Projets sont disponible <a href="https://github.com/LeBazarDeBryan?tab=repositories">ici</a></p>
+<p align="center">👨‍💻 Tous mes Projets sont disponible <a href="https://github.com/LeBazarDeBryan?tab=repositories">ici</a>.</p>
 
 <div align="center">
   
