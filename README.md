@@ -11,17 +11,14 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeBazarDeBryan&locale=fr&theme=tokyonight&hide_border=true&border_radius=50&include_all_commits=false&count_private=false" alt="" /><br />
 
-</div>
-
-<br>
-
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LeBazarDeBryan&locale=fr&theme=tokyonight&hide_border=true&border_radius=50&include_all_commits=false&count_private=false" alt="" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=LeBazarDeBryan&theme=tokyonight-duo&hide_border=true&border_radius=50&locale=fr&date_format=j%2Fn%5B%2FY%5D" alt="" />
-</div>
 
 <br></br>
-<br></br>
+
+<img src="88x31/cfs1.gif" /> <img src="88x31/nintendoforever.gif" /> <img src="88x31/3ds.png" /> <img src="88x31/splatoon.jpg" /> <img src="88x31/splatoon2.jpg" /> <img src="88x31/splatoon3.jpg" />
+</div>
 
 <p align="center">
 <a href="https://www.youtube.com/channel/UCRtAi_cDRcaJ1mgpqckNCbw"><img src="images/youtube.png" height="85" width="85" /></a>
