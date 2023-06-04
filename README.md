@@ -22,3 +22,5 @@
 <a href="https://www.instagram.com/le_bazar_de_bryan"><img src="images/instagram.png" height="80" width="80" /></a>
 <a href="https://forum.xda-developers.com/m/n0ub4x.11771617"><img src="images/xda.png" height="90" width="90" /></a>
 <a href="https://www.tiktok.com/@lebazardebryan_"><img src="images/tiktok.png" height="90" width="90" /></a>
+
+<a href="https://paypal.me/LeBazarDeBryan"><img src="images/paypal.png" height="100" width="240" /></a>
