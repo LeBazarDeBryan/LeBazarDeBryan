@@ -9,6 +9,8 @@
 |     |<p align="center">**Le Bazar de Bryan**</p>|  |
 
 <img src="https://github-readme-stats.vercel.app/api?username=LeBazarDeBryan&locale=fr&theme=tokyonight&hide_border=true&border_radius=50&include_all_commits=false&count_private=false" alt="" />
+<br>
+<img src="gif/fire.gif" alt="" />
 <br></br>
 
 #
