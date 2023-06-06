@@ -17,6 +17,10 @@
 <a href="https://twitter.com/N0ub4xOfficiel"><img src="gif/twitter.gif" height="100" width="100" /></a>
 <a href="https://www.instagram.com/le_bazar_de_bryan"><img src="gif/instagram.gif" height="100" width="100" /></a>
 <a href="https://forum.xda-developers.com/m/n0ub4x.11771617"><img src="images/xda.png" height="90" width="90" /></a>
-<a href="https://www.tiktok.com/@lebazardebryan_"><img src="gif/tiktok.gif" height="100" width="100" /></a>
+<a href="https://www.tiktok.com/@lebazardebryan_"><img src="gif/tiktok.gif" height="150" width="150" /></a>
 
 <a href="https://paypal.me/LeBazarDeBryan"><img src="images/paypal.png" height="100" width="240" /></a>
+
+| Credits | Raison |
+|---------|--------|
+| <a href="https://github.com/Anmol-Baranwal">Anmol Baranwal</a> | Pour les <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">GIF</a> |
