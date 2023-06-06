@@ -31,6 +31,7 @@
 
 | Credits | Raison |
 |---------|--------|
+| <a href="https://github.com/aha999">Klemen Skerbiš</a> | Pour le <a href="https://github.com/aha999/DonateButtons#paypal">bouton Paypal</a> |
 | <a href="https://github.com/Anmol-Baranwal">Anmol Baranwal</a> | Pour les <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">GIF</a> |
 
 #
