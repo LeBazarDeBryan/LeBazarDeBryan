@@ -5,7 +5,7 @@
   
 |     | Compteur de vue |     |
 |-----|-----------------|-----|
-|     |<img src="https://moe-counter.glitch.me/get/@lebazardebryan" alt="" />|  |
+|     |<img src="https://moe-counter.glitch.me/get/@lebazardebryan" alt="This project has received too many requests, please try again later." />|  |
 |     |<p align="center">**Le Bazar de Bryan**</p>|  |
 
 <img src="https://github-readme-stats.vercel.app/api?username=LeBazarDeBryan&locale=fr&theme=tokyonight&hide_border=true&border_radius=50&include_all_commits=false&count_private=false" alt="" />
