@@ -1,11 +1,11 @@
 <div align="center">
 <h1>Salut 👋, Je suis Bryan</h1>
-<h3>Quelqu'un qui adore l'Informatique</h3>
+<h3>Quelqu'un qui adore l'informatique</h3>
 <p>👨‍💻 Tous mes Projets sont disponible <a href="https://github.com/LeBazarDeBryan?tab=repositories">ici</a>.</p>
   
 |     | Compteur de vue |     |
 |-----|-----------------|-----|
-|     |<img src="https://moe-counter.glitch.me/get/@lebazardebryan" alt="This project has received too many requests, please try again later." />|  |
+|     |<img src="https://moe-counter.glitch.me/get/@lebazardebryan" alt="Indisponible" />|  |
 |     |<p align="center">**Le Bazar de Bryan**</p>|  |
 
 <img src="https://github-readme-stats.vercel.app/api?username=LeBazarDeBryan&locale=fr&theme=tokyonight&hide_border=true&border_radius=50&include_all_commits=false&count_private=false" alt="" />
