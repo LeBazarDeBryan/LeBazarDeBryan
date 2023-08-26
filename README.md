@@ -19,9 +19,7 @@
 
 #
 
-<a href="https://www.youtube.com/channel/UCRtAi_cDRcaJ1mgpqckNCbw"><img src="gif/youtube.gif" height="100" width="100" /></a>
-<a href="https://twitter.com/N0ub4xOfficiel"><img src="gif/twitter.gif" height="100" width="100" /></a>
-<a href="https://www.instagram.com/le_bazar_de_bryan"><img src="gif/instagram.gif" height="100" width="100" /></a>
+<a href="https://www.youtube.com/@LeBazarDeBryan_Officiel"><img src="gif/youtube.gif" height="100" width="100" /></a>
 <a href="https://forum.xda-developers.com/m/n0ub4x.11771617"><img src="images/xda.png" height="80" width="80" /></a>
 <a href="https://www.tiktok.com/@lebazardebryan_"><img src="gif/tiktok.gif" height="90" width="90" /></a>
 
