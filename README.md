@@ -6,9 +6,16 @@
 |     | Compteur de vue |     |
 |-----|-----------------|-----|
 |     |<img src="https://moe-counter.glitch.me/get/@lebazardebryan" alt="Indisponible" />|  |
-|     |<p align="center">**Le Bazar de Bryan**</p>|  |
+|     |<p>**Le Bazar de Bryan**</p>|  |
 
-<img src="https://github-readme-stats.vercel.app/api?username=LeBazarDeBryan&locale=fr&theme=tokyonight&hide_border=true&border_radius=50&include_all_commits=false&count_private=false" alt="" />
+<img src="https://github-readme-stats.vercel.app/api?username=LeBazarDeBryan&locale=fr&theme=tokyonight&hide_border=true&border_radius=0&include_all_commits=false&count_private=false" alt="" />
+<br>
+
+| Mon status |
+|--------------------|
+| <img alt="Indisponible" src="https://api.statusbadges.me/badge/status/484635211842322433?simple=true" /> <img alt="Indisponible" src="https://api.statusbadges.me/badge/spotify/484635211842322433" /> <img alt="Indisponible" src="https://api.statusbadges.me/badge/playing/484635211842322433" /> |
+| <img alt="Indisponible" src="https://lanyard.cnrad.dev/api/484635211842322433?bg=000000&borderRadius=0px" /> |
+| <p>**Le Bazar de Bryan**</p> |
 <br>
 <img src="gif/fire.gif" alt="GIF Indisponible" />
 <br></br>
