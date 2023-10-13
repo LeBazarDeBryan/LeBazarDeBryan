@@ -16,9 +16,6 @@
 | <img alt="Indisponible" src="https://api.statusbadges.me/badge/status/484635211842322433?simple=true" /> <img alt="Indisponible" src="https://api.statusbadges.me/badge/spotify/484635211842322433" /> <img alt="Indisponible" src="https://api.statusbadges.me/badge/playing/484635211842322433" /> |
 | <img alt="Indisponible" src="https://lanyard.cnrad.dev/api/484635211842322433?bg=000000&borderRadius=0px" /> |
 | <p>**Le Bazar de Bryan**</p> |
-<br>
-<img src="gif/fire.gif" alt="GIF Indisponible" />
-<br></br>
 
 #
 
