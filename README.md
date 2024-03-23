@@ -22,9 +22,9 @@
 
 #
 
-<a href="https://www.clictune.com/jsfk"><img src="gif/youtube.gif" height="100" width="100" /></a>
-<a href="https://www.clictune.com/jsfl"><img src="images/xda.png" height="80" width="80" /></a>
-<a href="https://www.clictune.com/jsfm"><img src="gif/tiktok.gif" height="90" width="90" /></a>
+| YouTube | XDA Forums | TikTok |
+|---------|------------|--------|
+<a href="https://www.clictune.com/jsfk"><img src="gif/youtube.gif" height="100" width="100" /></a> | <a href="https://www.clictune.com/jsfl"><img src="images/xda.png" height="80" width="80" /></a> | <a href="https://www.clictune.com/jsfm"><img src="gif/tiktok.gif" height="90" width="90" /></a>
 
 #
 
