@@ -10,12 +10,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=LeBazarDeBryan&locale=fr&theme=tokyonight&hide_border=true&border_radius=0&include_all_commits=false&count_private=false" alt="" />
 <br>
 
-|     | Mon status |     |
-|-----|------------|-----|
-|     | <img alt="Indisponible" src="https://api.statusbadges.me/badge/status/484635211842322433?simple=true" /> <img alt="Indisponible" src="https://api.statusbadges.me/badge/spotify/484635211842322433" /> <img alt="Indisponible" src="https://api.statusbadges.me/badge/playing/484635211842322433" /> |     |
-|     | <img alt="Indisponible" src="https://lanyard.cnrad.dev/api/484635211842322433?bg=000000&borderRadius=0px" /> |     |
-|     | <p>**Le Bazar de Bryan**</p> |     |
-
 #
 
 <a href="https://www.clictune.com/jsf1"><img src="88x31/cfs1.gif" /></a> <a href="https://www.clictune.com/jsf6"><img src="88x31/nintendoforever.gif" /></a> <a href="https://www.clictune.com/jsf7"><img src="88x31/3ds.png" /></a> <a href="https://www.clictune.com/jsf8"><img src="88x31/made_with_windows.gif" /></a> <a href="https://www.clictune.com/jsf9"><img src="88x31/dolby_digital.gif" /></a> <a href="https://www.clictune.com/jsfa"><img src="88x31/splatoon.jpg" /></a> <a href="https://www.clictune.com/jsfb"><img src="88x31/splatoon2.jpg" /></a> <a href="https://www.clictune.com/jsfc"><img src="88x31/splatoon3.jpg" /></a> <a href="https://www.clictune.com/jsfd"><img src="88x31/800x600.gif" /></a> <a href="https://www.clictune.com/jsfe"><img src="88x31/clickhere_blue.gif" /></a> <a href="https://www.clictune.com/jsfg"><img src="88x31/best_chrome.gif" /></a> <a href="https://www.clictune.com/jsfh"><img src="88x31/devils_button.gif" /></a> <a href="https://www.clictune.com/jsfi"><img src="88x31/1080p.gif" /></a> <a href="https://www.clictune.com/jsfj" target="_blank"><img src="https://adnade.net/img/88.gif" alt="AdNade.net" border="0"></a>
