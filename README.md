@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Salut 👋, Je suis Bryan</h1>
+<h1>Salut 👋, Je suis Brian</h1>
 <h3>Quelqu'un qui adore l'informatique</h3>
 <p>👨‍💻 Tous mes projets sont disponible <a href="https://www.clictune.com/jsf1">ici</a>.</p>
 
