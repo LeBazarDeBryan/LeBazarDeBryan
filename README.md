@@ -5,8 +5,8 @@
 
 |     | Compteur de vue |     |
 |-----|-----------------|-----|
-|     |![](https://moe-counter.glitch.me/get/@lebazardebryan?theme=rule34)|  |
-|     |<p>**Le Bazar de Bryan**</p>|  |
+|     |<img src="https://moe-counter.glitch.me/get/@lebazardebryan?theme=rule34" alt="Indisponible" />|  |
+|     |<p>**NotAsh_**</p>|  |
 <img src="https://github-readme-stats.vercel.app/api?username=LeBazarDeBryan&locale=fr&theme=tokyonight&hide_border=true&border_radius=0&include_all_commits=false&count_private=false" alt="" />
 <br>
 
