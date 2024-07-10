@@ -26,6 +26,13 @@
 |---------|--------|
 | <a href="https://www.clictune.com/jsfn">Anmol Baranwal</a> | Pour les <a href="https://www.clictune.com/jsfo">GIF</a> |
 
+</div>
+
+#
+
+<h1>Annonces</h1>
+<p>Ban permanent de Discord !</p>
+
 #
 
 <img src="gif/animated_laptop_banner.gif" />
