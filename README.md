@@ -32,6 +32,7 @@
 
 <h1>Annonces</h1>
 <p>Ban permanent de Discord !</p>
+<p>Demande de deban faite le 10/07 à ~20:30, en attente de réponse.</p>
 
 #
 
