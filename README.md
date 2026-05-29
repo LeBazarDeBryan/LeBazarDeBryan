@@ -12,6 +12,6 @@
 
 ___
 
-<img src="88x31/cfs1.gif" /> <img src="88x31/nintendoforever.gif" /> <img src="88x31/3ds.png" /> <img src="88x31/made_with_windows.gif" /> <img src="88x31/dolby_digital.gif" /> <img src="88x31/splatoon.jpg" /> <img src="88x31/splatoon2.jpg" /> <img src="88x31/splatoon3.jpg" /> <img src="88x31/800x600.gif" /> <img src="88x31/clickhere_blue.gif" /> <img src="88x31/devils_button.gif" /> <img src="88x31/1080p.gif" /> <a href="https://adnade.net/?ref=LeBazarDeBryan"><img src="https://adnade.net/img/88.gif" alt="AdNade.net" border="0"></a> <a href="https://katsuu04.dev"><img src="https://katsuu04.dev/cdn/gifs/button.gif"></a>
+<img src="88x31/cfs1.gif" /> <img src="88x31/3ds.png" /> <img src="88x31/dolby_digital.gif" /> <img src="88x31/splatoon.jpg" /> <img src="88x31/splatoon2.jpg" /> <img href="https://felix.onthewifi.com" src="88x31/clickhere_blue.gif" /> <img src="88x31/devils_button.gif" /> <img src="88x31/1080p.gif" /> <a href="https://adnade.net/?ref=LeBazarDeBryan"><img src="https://adnade.net/img/88.gif" alt="AdNade.net" border="0"></a> <a href="https://katsuu04.dev"><img src="https://katsuu04.dev/cdn/gifs/button.gif"></a>
 
 </div>
