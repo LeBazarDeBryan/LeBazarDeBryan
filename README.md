@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Salut 👋, Je suis Brian</h1>
+<h1>Salut 👋, Je suis Félx</h1>
 <h3>Quelqu'un qui adore l'informatique</h3>
 <p>👨‍💻 Tous mes projets sont disponible <a href="https://github.com/LeBazarDeBryan?tab=repositories">ici</a>.</p>
 
